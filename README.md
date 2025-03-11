@@ -24,12 +24,12 @@ Simple react project for testing Use hook and Error boundary.
 
 1. Clone this repository:
    ```
-   git clone https://github.com/paniSil/react-hw-3.git
+   git clone https://github.com/paniSil/react-hw-4.git
    ```
    
 2. Navigate to the project directory:
    ```
-   cd react-hw-3
+   cd react-hw-4
    ```
 
 4. Install dependencies:
