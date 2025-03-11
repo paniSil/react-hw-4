@@ -1,5 +1,5 @@
 # React homework project 4
-Project page on Netlify: [React 3](https://react-hw-3-panisil.netlify.app/)
+Project page on Netlify: [React 4](https://react-hw-3-panisil.netlify.app/)
 
 Simple react project for testing Use hook and Error boundary.
 
